@@ -7,7 +7,8 @@ we hope that we can reduce the intensive- labor work in farm. So we want to use 
 
 # Technique
 
-Object detection:
+## Object detection:
+
 We use yolo with pytorch. this decision is concerned about the model size and accuracy.
 
 If the model is too big, the calculation will take time. 
@@ -15,7 +16,8 @@ If the model is too big, the calculation will take time.
 In the other way, if it is too small, it might let the accuray down. So, yolo would be the perfect fit in this project.
 
 
-Robot-arm:
+## Robot-arm:
+
 Our demo Robot-arm is Braccio.
 
 It's a simple arm-type with 6 motor that we can control. 
