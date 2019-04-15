@@ -2,7 +2,9 @@
 
 # Purpose
 
-we hope that we can reduce the intensive- labor work in farm. So we want to use robot-arm and object detection to replace human being.
+we hope that we can reduce the intensive-labor work for agriculture. 
+
+So we want to use robot-arm and object detection to replace human being.
 
 
 # Technique
